@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="copy_right">© 2021, Junhyx Fetero</string>
+    <string name="version">Version 1.0</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_body">Note Body</string>
+    <string name="save_option">Save Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="about_page">About Page</string>
+    <string name="file_name">Note.json</string>
+</resources>
